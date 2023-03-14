@@ -81,3 +81,9 @@ docker logs -f goracle-nr
 
 - Tebrikler! Artık Goracle Network Node'umuz hazır :)
 
+NOT: Cüzdanınızda yeterince test algo tokeni yoksa https://bank.testnet.algorand.network/ adresinden alabilirsiniz. 
+
+- BURASI ÇOK ÖNEMLİ!!! BU İŞLEM YAPILMAZSA NODE ÇALIŞMIYOR!
+
+Test algo ekranına (https://bank.testnet.algorand.network/) girdiğinizde Algorand cüzdan adresiniz ile token talep ettikten sonra, şimdi de ''KATILIMCI ADRESİNİZ'' ile token talep etmelisiniz. Katılımcı adresi dediğimiz adres; yukarıda üzerini beyaz ile belirginleştirdiğimiz bize verilen adrestir.
+
