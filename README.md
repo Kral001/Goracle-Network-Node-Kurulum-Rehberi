@@ -12,3 +12,8 @@ Sunucu Gereksinimleri (VPS)
 Düğümü doğru bir şekilde kurmak için bir Algorand Düğüm API'sine ihtiyacınız olacak
 https://developer.purestake.io/home adresinden ücretsiz bir API hesabı alabilirsiniz.
 
+KURULUM
+
+```
+wget  -qP /usr/bin/ https://staging.dev.goracle.io/downloads/latest-staging/goracle &&  chmod u+x /usr/bin/goracle
+```
