@@ -41,7 +41,7 @@ goracle init
 
 - Goracle Katılımcı Adresinizi kopyalayın. (Bu adres, yukarıda yer alan ''init'' komutunu girdikten hemen sonra yukarıdaki fotoğrafta üzeri beyaz olarak işaretli olan kısımdaki koddur.) Daha sonra testnet portalındaki ''Nodes'' bölümüne gidin. (https://testnet-app.goracle.io/nodes)
 
-- Açılan sayfaya ana cüzdanınız ile giriş yapın ve cüzdan adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
+- Açılan sayfaya ana cüzdanınız ile giriş yapın ve katılımcı adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
 
 ![4](https://user-images.githubusercontent.com/98269269/224924150-acc85d50-36b0-45ba-aa2a-eaf0c6124807.png)
 
