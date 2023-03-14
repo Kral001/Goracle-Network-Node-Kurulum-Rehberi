@@ -9,7 +9,7 @@ Sunucu Gereksinimleri (VPS)
 
 !!! İLK AŞAMADA HERKESİN BİR ALGORAND DÜĞÜM API HESABI OLMALI !!!
 
-Düğümü doğru bir şekilde kurmak için bir Algorand Düğüm API'sine ihtiyacınız olacak
+- Düğümü doğru bir şekilde kurmak için bir Algorand Düğüm API'sine ihtiyacınız olacak
 https://developer.purestake.io/home adresinden ücretsiz bir API hesabı alabilirsiniz.
 
 KURULUM
@@ -20,6 +20,7 @@ KURULUM
 wget  -qP /usr/bin/ https://staging.dev.goracle.io/downloads/latest-staging/goracle &&  chmod u+x /usr/bin/goracle
 ```
 - Bu komut sonrası ortaya çıkacak olan örnek görüntü şöyle olmalıdır;
+- 
 ![1](https://user-images.githubusercontent.com/98269269/224921641-b031d523-6e00-45af-8301-b596f796be54.png)
 
 ```
@@ -42,6 +43,38 @@ goracle init
 
 ![4](https://user-images.githubusercontent.com/98269269/224924150-acc85d50-36b0-45ba-aa2a-eaf0c6124807.png)
 
+- Adresinizi kaydettikten sonra payınızı arttırmanız gerekecek. İşaretli yerden bu işlemi de gerçekleştiriyoruz.
+
+![5](https://user-images.githubusercontent.com/98269269/224924612-765808db-d4b6-455e-ae30-adc6d325d241.png)
 
 
+2. Docker'ı Kuruyoruz
+
+```
+bash <(wget -qO- https://raw.githubusercontent.com/ttimmatti/dependencies/main/docker.sh)
+```
+
+- Komutu girdiğinizde çıktısı aşağıdakine benzer bir çıktı olmalıdır.
+
+![6](https://user-images.githubusercontent.com/98269269/224924900-8d013feb-2bae-4565-84bb-a1f4ca2faaab.png)
+
+3. Node'umuzu Çalıştırıyoruz
+
+```
+goracle docker-start --background
+```
+- Komutun çıktısı bu şekilde olmalıdır.
+
+![7](https://user-images.githubusercontent.com/98269269/224925319-e099360c-a770-4e88-991c-7d173bfb47c8.png)
+
+4. Loglarımızı Kontrol Etmek İçin
+
+```
+docker logs -f goracle-nr
+```
+- Bu çıktıyı görüyorsanız bu işlemi de başarılı bir şekilde gerçekleştirdiniz demektir.
+
+![8](https://user-images.githubusercontent.com/98269269/224925594-b243555f-1641-4ccd-9605-db95591e5447.png)
+
+- Tebrikler! Artık Goracle Network Node'umuz hazır :)
 
