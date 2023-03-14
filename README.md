@@ -5,7 +5,7 @@
 Sunucu Gereksinimleri (VPS)
 - CPU: 2
 - RAM: 4gb
-- Depolama: 10gb SSD
+- Depolama: 10 GB SSD
 - Hızlı Internet
 - Ubuntu: 20.04+
 
