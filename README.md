@@ -1,0 +1,1 @@
+# Goracle-Network-Node-Kurulum-Rehberi
