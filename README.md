@@ -1,4 +1,4 @@
-# Goracle-Network-Node-Kurulum-Rehberi
+<h1 align="center"> Goracle-Network-Node-Kurulum-Rehberi </h1>
 
 Sunucu Gereksinimleri (VPS)
 - Cpu: 2
