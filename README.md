@@ -6,7 +6,6 @@ Sunucu Gereksinimleri (VPS)
 - CPU: 2
 - RAM: 4gb
 - Depolama: 10 GB SSD
-- Hızlı Internet
 - Ubuntu: 20.04+
 
 !!! İLK AŞAMADA HERKESİN BİR ALGORAND DÜĞÜM API HESABI OLMALI !!!
