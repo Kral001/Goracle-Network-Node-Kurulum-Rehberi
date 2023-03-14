@@ -14,9 +14,12 @@ https://developer.purestake.io/home adresinden ücretsiz bir API hesabı alabili
 
 KURULUM
 
+1. Goracle Düğümünü Başlatıyoruz
+
 ```
 wget  -qP /usr/bin/ https://staging.dev.goracle.io/downloads/latest-staging/goracle &&  chmod u+x /usr/bin/goracle
 ```
+- Bu komut sonrası ortaya çıkacak olan örnek görüntü şöyle olmalıdır;
 ![1](https://user-images.githubusercontent.com/98269269/224921641-b031d523-6e00-45af-8301-b596f796be54.png)
 
 ```
@@ -26,4 +29,19 @@ goracle init
 - Bu komut sonrası ortaya çıkacak olan örnek görüntü şöyle olmalıdır;
 
 ![2](https://user-images.githubusercontent.com/98269269/224921811-b336d610-4ed8-4dba-b38d-b85629d37f0c.png)
+
+- Bu aşamada karşımıza iki adet soru çıkacak. Bunların ikisine de Y yazarak ENTER tuşuna basıyoruz.
+
+1.1. Aşağıda yer alan görüntüdeki yerden (PureStake üzerinde oluşturduğumuz API keyimizi) kopyalıyoruz. (https://developer.purestake.io/home)
+
+![3](https://user-images.githubusercontent.com/98269269/224922901-2de5deea-549d-48d2-bbbc-ea4400952a64.png)
+
+- Goracle Katılımcı Adresinizi kopyalayın. Bu adres, sizin kullandığınız cüzdan adresinizdir. Daha sonra testnet portalındaki ''Nodes'' bölümüne gidin. (https://testnet-app.goracle.io/nodes)
+
+- Açılan sayfaya ana cüzdanınız ile giriş yapın ve cüzdan adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
+
+![4](https://user-images.githubusercontent.com/98269269/224924150-acc85d50-36b0-45ba-aa2a-eaf0c6124807.png)
+
+
+
 
