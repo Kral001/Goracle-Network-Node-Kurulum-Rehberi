@@ -1,5 +1,7 @@
 <h1 align="center"> Goracle-Network-Node-Kurulum-Rehberi </h1>
 
+![9](https://user-images.githubusercontent.com/98269269/224926668-6981427e-56d4-4d2a-9df6-e8ff8e134246.png)
+
 Sunucu Gereksinimleri (VPS)
 - Cpu: 2
 - Ram: 4gb
