@@ -29,7 +29,7 @@ wget  -qP /usr/bin/ https://staging.dev.goracle.io/downloads/latest-staging/gora
 goracle init
 ```
 
-- Bu komut sonrası ortaya çıkacak olan örnek görüntü şöyle olmalıdır; BURADA DİKKATİNİZİ ÇEKMEK İSTİYORUM! Üzeri beyaz olarak taranmış olan kısımda bir numara görüyorsunuz. Bu kodu girdiğimizde herkese özel bu şekilde bir kod verilecek. Katılımcı kodu olarak geçen bu kodu kopyalayın ve bir yere not edin. Birazdan bu kodla kayıt olacağız.
+- Bu komut sonrası ortaya çıkacak olan örnek görüntü şöyle olmalıdır; BURADA DİKKATİNİZİ ÇEKMEK İSTİYORUM! Üzeri beyaz olarak taranmış olan kısımda bir numara görüyorsunuz. Bu komutu girdiğimizde herkese özel bu şekilde bir kod verilecek. Katılımcı kodu olarak geçen bu kodu kopyalayın ve bir yere not edin. Birazdan bu kodla kayıt olacağız.
 
 ![2](https://user-images.githubusercontent.com/98269269/224921811-b336d610-4ed8-4dba-b38d-b85629d37f0c.png)
 
