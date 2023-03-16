@@ -53,7 +53,7 @@ goracle init
 
 - Şimdi tokenleri stake edeceğiz. İşaretli yerden bu işlemi de gerçekleştiriyoruz.
 
-![5](https://user-images.githubusercontent.com/98269269/224924612-765808db-d4b6-455e-ae30-adc6d325d241.png)
+![bb](https://user-images.githubusercontent.com/98269269/225570561-bbdc620f-6aca-4163-b358-ff8715e938d6.png)
 
 
 2. Docker'ı Kuruyoruz
