@@ -46,7 +46,12 @@ goracle init
 
 ![4](https://user-images.githubusercontent.com/98269269/224924150-acc85d50-36b0-45ba-aa2a-eaf0c6124807.png)
 
-- Adresinizi kaydettikten sonra payınızı arttırmanız gerekecek. İşaretli yerden bu işlemi de gerçekleştiriyoruz.
+- Adresinizi kaydettikten sonra önce test tokenlerini almanız gerekiyor. Aşağıda gösterdiğim butona tıklayarak test tokenlerimizi alıyoruz.
+
+![cx](https://user-images.githubusercontent.com/98269269/225569906-5d431c02-7497-490a-a153-12cff5950ebc.png)
+
+
+- Şimdi tokenleri stake edeceğiz. İşaretli yerden bu işlemi de gerçekleştiriyoruz.
 
 ![5](https://user-images.githubusercontent.com/98269269/224924612-765808db-d4b6-455e-ae30-adc6d325d241.png)
 
