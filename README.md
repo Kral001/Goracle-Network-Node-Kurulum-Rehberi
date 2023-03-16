@@ -51,7 +51,7 @@ goracle init
 ![cx](https://user-images.githubusercontent.com/98269269/225569906-5d431c02-7497-490a-a153-12cff5950ebc.png)
 
 
-- Şimdi tokenleri stake edeceğiz. İşaretli yerden bu işlemi de gerçekleştiriyoruz.
+- Şimdi tokenleri stake edeceğiz. İşaretli yerden bu işlemi de gerçekleştiriyoruz. En az 10.000 GORA token stake edebiliriz. Daha az stake etmeye çalışırsanız işlem gerçekleşmeyecektir.
 
 ![bb](https://user-images.githubusercontent.com/98269269/225570561-bbdc620f-6aca-4163-b358-ff8715e938d6.png)
 
