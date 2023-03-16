@@ -15,9 +15,15 @@ https://developer.purestake.io/home adresinden ücretsiz bir API hesabı alabili
 
 !!! Kuruluma geçmeden önce şunu hatırlatmak istiyorum. Pera Wallet kullananlar için işlem onayları ''PERA WALLET MOBİL UYGULAMA'' üzerinden verilecek. Web sayfasından onay veriliyor mu bilmiyorum ama çok denedim ve bulamadım. Bulan olursa rehbere pull request yapabilirsiniz.
 
-KURULUM
+# KURULUM
 
-1. Goracle Düğümünü Başlatıyoruz
+## 1. Goracle Düğümünü Başlatıyoruz
+```
+sudo apt update 
+```
+```
+sudo apt upgrade
+```
 
 ```
 wget  -qP /usr/bin/ https://staging.dev.goracle.io/downloads/latest-staging/goracle &&  chmod u+x /usr/bin/goracle
@@ -36,11 +42,11 @@ goracle init
 
 - Bu aşamada karşımıza iki adet soru çıkacak. Bunların ikisine de Y yazarak ENTER tuşuna basıyoruz. İkinci soruya Y yanıtını verdiğimizde bizden API Key'imizi isteyecek. 
 
-1.1. Aşağıda yer alan görüntüdeki yerden (PureStake üzerinde oluşturduğumuz API keyimizi) kopyalıyoruz. (https://developer.purestake.io/home) Kopyaladığımız API Keyimizi, bizden istediği yere yapıştırıyoruz.
+## 1.1. Aşağıda yer alan görüntüdeki yerden (PureStake üzerinde oluşturduğumuz API keyimizi) kopyalıyoruz. (https://developer.purestake.io/home) Kopyaladığımız API Keyimizi, bizden istediği yere yapıştırıyoruz.
 
 ![3](https://user-images.githubusercontent.com/98269269/224922901-2de5deea-549d-48d2-bbbc-ea4400952a64.png)
 
-- Goracle Katılımcı Adresinizi kopyalayın. (Bu adres, yukarıda yer alan ''init'' komutunu girdikten hemen sonra yukarıdaki fotoğrafta üzeri beyaz olarak işaretli olan kısımdaki koddur.) Daha sonra testnet portalındaki ''Nodes'' bölümüne gidin. (https://testnet-app.goracle.io/nodes)
+- Goracle Katılımcı Adresinizi kopyalayın. (Bu adres, yukarıda yer alan ''init'' komutunu girdikten hemen sonra yukarıdaki fotoğrafta üzeri beyaz olarak işaretli olan kısımdaki koddur.) Daha sonra testnet portalındaki ''Nodes'' bölümüne gidin. (https://sandbox-app.goracle.io/nodes)
 
 - Açılan sayfaya ana cüzdanınız ile giriş yapın ve katılımcı adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
 
@@ -55,8 +61,11 @@ goracle init
 
 ![bb](https://user-images.githubusercontent.com/98269269/225570561-bbdc620f-6aca-4163-b358-ff8715e938d6.png)
 
+- Stake işlemini gerçekleştirdikten sonra sunucumuza geri dönüyoruz ve Enter tuşuna basıp kayıdımızı onaylıyoruz. Eğer aşağıdaki gibi çıktı aldıysanız sonraki adıma geçebilirsiniz.
 
-2. Docker'ı Kuruyoruz
+![image](https://user-images.githubusercontent.com/76253089/225603716-7a66a8ce-5928-4236-96ba-e05724e9c4cd.png)
+
+## 2. Docker'ı Kuruyoruz
 
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/ttimmatti/dependencies/main/docker.sh)
@@ -66,7 +75,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/ttimmatti/dependencies/main/d
 
 ![6](https://user-images.githubusercontent.com/98269269/224924900-8d013feb-2bae-4565-84bb-a1f4ca2faaab.png)
 
-3. Node'umuzu Çalıştırıyoruz
+## 3. Node'umuzu Çalıştırıyoruz
 
 ```
 goracle docker-start --background
@@ -75,7 +84,7 @@ goracle docker-start --background
 
 ![7](https://user-images.githubusercontent.com/98269269/224925319-e099360c-a770-4e88-991c-7d173bfb47c8.png)
 
-4. Loglarımızı Kontrol Etmek İçin
+## 4. Loglarımızı Kontrol Etmek İçin
 
 ```
 docker logs -f goracle-nr
