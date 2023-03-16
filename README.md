@@ -46,6 +46,10 @@ goracle init
 
 ![3](https://user-images.githubusercontent.com/98269269/224922901-2de5deea-549d-48d2-bbbc-ea4400952a64.png)
 
+- BURASI ÇOK ÖNEMLİ!!! BU İŞLEM YAPILMAZSA NODE ÇALIŞMIYOR!
+
+Test algo ekranına (https://bank.testnet.algorand.network/) girdiğinizde Algorand cüzdan adresiniz ile token talep ettikten sonra, şimdi de ''KATILIMCI ADRESİNİZ'' ile token talep etmelisiniz. Katılımcı adresi dediğimiz adres; yukarıda üzerini beyaz ile belirginleştirdiğimiz bize verilen adrestir.
+
 - Goracle Katılımcı Adresinizi kopyalayın. (Bu adres, yukarıda yer alan ''init'' komutunu girdikten hemen sonra yukarıdaki fotoğrafta üzeri beyaz olarak işaretli olan kısımdaki koddur.) Daha sonra testnet portalındaki ''Nodes'' bölümüne gidin. (https://sandbox-app.goracle.io/nodes)
 
 - Açılan sayfaya ana cüzdanınız ile giriş yapın ve katılımcı adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
@@ -96,10 +100,6 @@ docker logs -f goracle-nr
 - Tebrikler! Artık Goracle Network Node'umuz hazır :)
 
 - NOT: Cüzdanınızda yeterince test algo tokeni yoksa https://bank.testnet.algorand.network/ adresinden alabilirsiniz. 
-
-- BURASI ÇOK ÖNEMLİ!!! BU İŞLEM YAPILMAZSA NODE ÇALIŞMIYOR!
-
-Test algo ekranına (https://bank.testnet.algorand.network/) girdiğinizde Algorand cüzdan adresiniz ile token talep ettikten sonra, şimdi de ''KATILIMCI ADRESİNİZ'' ile token talep etmelisiniz. Katılımcı adresi dediğimiz adres; yukarıda üzerini beyaz ile belirginleştirdiğimiz bize verilen adrestir.
 
 
 - Docker'ı durdurmak için:
