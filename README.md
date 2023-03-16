@@ -13,7 +13,14 @@ Sunucu Gereksinimleri (VPS)
 - Düğümü doğru bir şekilde kurmak için bir Algorand Düğüm API'sine ihtiyacınız olacak
 https://developer.purestake.io/home adresinden ücretsiz bir API hesabı alabilirsiniz.
 
+- PERA WALLET HAKKINDA!
+
 !!! Kuruluma geçmeden önce şunu hatırlatmak istiyorum. Pera Wallet kullananlar için işlem onayları ''PERA WALLET MOBİL UYGULAMA'' üzerinden verilecek. Web sayfasından onay veriliyor mu bilmiyorum ama çok denedim ve bulamadım. Bulan olursa rehbere pull request yapabilirsiniz.
+
+İşlemlere başlamadan önce Pera Wallet'ı aşağıdaki adımları izleyerek ''TESTNET'' ağına almayı unutmayınız!
+
+![Adsız](https://user-images.githubusercontent.com/98269269/225688767-12f10e7b-9d1c-4083-95d0-b34ae9c59088.png)
+
 
 # KURULUM
 
