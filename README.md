@@ -109,6 +109,7 @@ docker logs -f goracle-nr
 
 - NOT: Cüzdanınızda yeterince test algo tokeni yoksa https://bank.testnet.algorand.network/ adresinden alabilirsiniz. 
 
+- NOT: Cüzdanınızdaki ve katılımcı adresinizdeki test algo miktarı 10'un altına düşmemelidir! Yoksa dashboardda kırmızı olarak görünür. Arada sırada https://bank.testnet.algorand.network/ adresinden hem cüzdan adresinize hem de katılımcı adresinize test algo almayı unutmayın.
 
 - Docker'ı durdurmak için:
 
