@@ -73,7 +73,7 @@ goracle init
 
 Test algo ekranına (https://bank.testnet.algorand.network/) girdiğinizde Algorand cüzdan adresiniz ile token talep ettikten sonra, şimdi de ''KATILIMCI ADRESİNİZ'' ile token talep etmelisiniz. Katılımcı adresi dediğimiz adres; yukarıda üzerini beyaz ile belirginleştirdiğimiz bize verilen adrestir.
 
-- Stake işlemini gerçekleştirdikten sonra ve tokenlerimizi aldıktan sonra sunucumuza geri dönüyoruz ve Enter tuşuna basıp kaydımızı onaylıyoruz. Eğer aşağıdaki gibi çıktı aldıysanız sonraki adıma geçebilirsiniz.
+- Stake işlemini gerçekleştirdikten sonra ve tokenlerimizi aldıktan sonra sunucumuza geri dönüyoruz ve enter tuşuna basıp kaydımızı onaylıyoruz. Eğer aşağıdaki gibi çıktı aldıysanız sonraki adıma geçebilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/76253089/225603716-7a66a8ce-5928-4236-96ba-e05724e9c4cd.png)
 
