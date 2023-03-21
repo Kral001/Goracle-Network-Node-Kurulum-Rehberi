@@ -106,7 +106,7 @@ goracle init
 
 - Bu işlemleri adım adım yaparken Pera Wallet mobil uygulamanızdan işlem onaylarını vermeyi unutmayın. Tüm onaylar tamamlandıktan bir süre sonra sayfayı yenilediğinizde tokenlerinizin stake edildiğini görebilirsiniz.
 
-4.SON ADIM!
+3.3..SON ADIM!
 
 - Terminale dönüyoruz ve ENTER tuşuna basıyoruz.
 
@@ -114,7 +114,7 @@ goracle init
 
 ![image](https://user-images.githubusercontent.com/76253089/225603716-7a66a8ce-5928-4236-96ba-e05724e9c4cd.png)
 
-## 2. Docker'ı Kuruyoruz
+## 4. Docker'ı Kuruyoruz
 
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/ttimmatti/dependencies/main/docker.sh)
@@ -124,7 +124,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/ttimmatti/dependencies/main/d
 
 ![6](https://user-images.githubusercontent.com/98269269/224924900-8d013feb-2bae-4565-84bb-a1f4ca2faaab.png)
 
-## 3. Node'umuzu Çalıştırıyoruz
+## 5. Node'umuzu Çalıştırıyoruz
 
 ```
 goracle docker-start --background
@@ -133,7 +133,7 @@ goracle docker-start --background
 
 ![7](https://user-images.githubusercontent.com/98269269/224925319-e099360c-a770-4e88-991c-7d173bfb47c8.png)
 
-## 4. Loglarımızı Kontrol Etmek İçin
+## 6. Loglarımızı Kontrol Etmek İçin
 
 ```
 docker logs -f goracle-nr
