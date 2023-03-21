@@ -88,6 +88,11 @@ goracle init
 
 ![9](https://user-images.githubusercontent.com/98269269/226693585-5112bc0f-890a-4db1-a3ab-c1908303945b.png)
 
+3.1.Bize mail olarak gönderilmiş olan erişim kodunu aşağıdaki yere yazarak onaylıyoruz.
+
+![10](https://user-images.githubusercontent.com/98269269/226693795-1f921bdf-7c81-4bd6-9118-36699a8af608.png)
+
+
 
 
 - Açılan sayfaya ana cüzdanınız ile giriş yapın ve katılımcı adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
