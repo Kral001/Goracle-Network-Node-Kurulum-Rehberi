@@ -63,6 +63,7 @@ goracle init
 
 
 2.KATILIM ADRESİMİZİ KAYDEDİYORUZ
+
 2.1.Sunucunuzda aşağıda işaretli olarak gösterilen linke tıklayarak katılım adresinizi sisteme kaydedin.
 
 ![5](https://user-images.githubusercontent.com/98269269/226687000-00f404c7-51a8-4da6-9723-7308301a2f1f.png)
