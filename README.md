@@ -68,7 +68,7 @@ goracle init
 
 ![5](https://user-images.githubusercontent.com/98269269/226687000-00f404c7-51a8-4da6-9723-7308301a2f1f.png)
 
-2.2.Yukarıdaki işlem için linke tıkladığınızda aşağıdaki gibi bir ekranla karşılaşacaksınız (Bu aşamada Pera cüzdanınızı tekrar bağlamanız gerekebilir). Aşağıda gördüğünüz işaretli olaan ''register'' butoununa basıyoruz ve node kayıt işlemimizi gerçekleştirmiş oluyoruz.
+2.2.Yukarıdaki işlem için linke tıkladığınızda aşağıdaki gibi bir ekranla karşılaşacaksınız (Bu aşamada Pera cüzdanınızı tekrar bağlamanız gerekebilir). Aşağıda gördüğünüz işaretli olaan ''register'' butonuna basıyoruz ve node kayıt işlemimizi gerçekleştirmiş oluyoruz.
 
 ![6](https://user-images.githubusercontent.com/98269269/226687441-cc0a7907-d358-46dc-9a9f-6155dd553ae6.png)
 
