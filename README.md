@@ -151,7 +151,7 @@ docker logs -f goracle-nr
 - Docker'ı durdurmak için:
 
 ```
-./goracle docker-stop
+goracle docker-stop
 ```
 
 - Verileri silmek için:
