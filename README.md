@@ -96,6 +96,14 @@ goracle init
 
 ![11](https://user-images.githubusercontent.com/98269269/226693963-8499a879-acef-4b05-8bb5-65297b0d521c.png)
 
+3.2.Şimdi elimizdeki test tokenlerinin bir kısmını stake edeceğiz. ''Add Stake'' butonuna basıyoruz.
+
+![12](https://user-images.githubusercontent.com/98269269/226694166-76f591bf-c4bf-4534-b125-134dfb1cff42.png)
+
+3.2.1.Karşımıza çıkan miktar yazma ekranına EN AZ 10.000 GORA olacak şekilde bir miktar belirleyerek yazıyoruz ve ''Confirm Stake'' butonuna basıyoruz.
+
+![13](https://user-images.githubusercontent.com/98269269/226694458-5b79af44-300a-480a-8e67-5b45be151bd3.png)
+
 
 
 - Açılan sayfaya ana cüzdanınız ile giriş yapın ve katılımcı adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
