@@ -78,7 +78,10 @@ goracle init
 
 ![6bf4abb8-675a-48fa-a2c7-71454e51b017](https://user-images.githubusercontent.com/98269269/226689706-22ed3a67-8cd6-4d7e-8726-f8e54ea46b02.png)
 
-2.4. Ardından katılım adresinize Algo almanız gerekecektir. Bu aşamada aşağıda işaretlediğim yerdeki katılım adresinizi kopyalayın ve faucetten (https://bank.testnet.algorand.network/) bu adrese Algo alın.
+2.4. Ardından katılım adresinize Algo almanız gerekecektir. Bu aşamada aşağıda işaretlediğim yerdeki katılım adresinizi kopyalayın ve faucetten (https://bank.testnet.algorand.network/) KATILIM ADRESİNİZE Algo alın.
+
+![8](https://user-images.githubusercontent.com/98269269/226690642-d815273f-53fa-4395-91de-24e4b87b21a5.png)
+
 
 - Açılan sayfaya ana cüzdanınız ile giriş yapın ve katılımcı adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
 
