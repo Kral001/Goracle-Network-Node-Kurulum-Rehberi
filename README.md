@@ -24,7 +24,7 @@ https://developer.purestake.io/home adresinden ücretsiz bir API hesabı alabili
 
 # KURULUM
 
-## 1. Goracle Düğümünü Başlatıyoruz
+## 1. GORACLE DÜĞÜMÜNÜ BAŞLATIYORUZ
 ```
 sudo apt update 
 ```
@@ -62,8 +62,7 @@ goracle init
 ![2](https://user-images.githubusercontent.com/98269269/226685577-9fe76cf5-b95b-4424-ac25-cceabcf0115c.png)
 
 
-2.Katılım Adresinizi Kaydedin
-
+2.KATILIM ADRESİMİZİ KAYDEDİYORUZ
 2.1.Sunucunuzda aşağıda işaretli olarak gösterilen linke tıklayarak katılım adresinizi sisteme kaydedin.
 
 ![5](https://user-images.githubusercontent.com/98269269/226687000-00f404c7-51a8-4da6-9723-7308301a2f1f.png)
