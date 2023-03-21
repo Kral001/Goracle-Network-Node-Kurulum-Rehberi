@@ -92,6 +92,9 @@ goracle init
 
 ![10](https://user-images.githubusercontent.com/98269269/226693795-1f921bdf-7c81-4bd6-9118-36699a8af608.png)
 
+3.1.1.Yukarıdaki işlemi yaptıktan sonra test tokenlerimiz aşağıdaki şekilde görünecektir.
+
+![11](https://user-images.githubusercontent.com/98269269/226693963-8499a879-acef-4b05-8bb5-65297b0d521c.png)
 
 
 
