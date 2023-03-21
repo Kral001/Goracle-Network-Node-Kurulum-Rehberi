@@ -49,7 +49,7 @@ goracle init
 
 - Bu aşamada karşımıza iki adet soru çıkacak. Bunların ikisine de Y yazarak ENTER tuşuna basıyoruz. İkinci soruya Y yanıtını verdiğimizde bizden API Key'imizi isteyecek. 
 
-## 1.1. Aşağıda yer alan görüntüdeki yerden (PureStake üzerinde oluşturduğumuz API keyimizi) kopyalıyoruz. (https://developer.purestake.io/home) Kopyaladığımız API Keyimizi, bizden istediği yere yapıştırıyoruz.
+## 1.1. Aşağıda yer alan görüntüdeki yerden (PureStake üzerinde oluşturduğumuz API keyimizi) kopyalıyoruz. (https://developer.purestake.io/home) Kopyaladığımız API Keyimizi, bizden istediği yere yapıştırıyoruz ve enter tuşuna basıyoruz.
 
 ![3](https://user-images.githubusercontent.com/98269269/224922901-2de5deea-549d-48d2-bbbc-ea4400952a64.png)
 
