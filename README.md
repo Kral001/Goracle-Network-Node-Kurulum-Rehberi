@@ -47,11 +47,20 @@ goracle init
 
 ![2](https://user-images.githubusercontent.com/98269269/224921811-b336d610-4ed8-4dba-b38d-b85629d37f0c.png)
 
-- Bu aşamada karşımıza iki adet soru çıkacak. Bunların ikisine de Y yazarak ENTER tuşuna basıyoruz. İkinci soruya Y yanıtını verdiğimizde bizden API Key'imizi isteyecek. 
+1.1. Bu aşamada karşımıza iki adet soru çıkacak. Bunların ikisine de Y yazarak ENTER tuşuna basıyoruz. İkinci soruya Y yanıtını verdiğimizde bizden API Key'imizi isteyecek. 
 
-## 1.1. Aşağıda yer alan görüntüdeki yerden (PureStake üzerinde oluşturduğumuz API keyimizi) kopyalıyoruz. (https://developer.purestake.io/home) Kopyaladığımız API Keyimizi, bizden istediği yere yapıştırıyoruz ve enter tuşuna basıyoruz.
+## 1.2. Aşağıda yer alan görüntüdeki yerden (PureStake üzerinde oluşturduğumuz API keyimizi) kopyalıyoruz. (https://developer.purestake.io/home) Kopyaladığımız API Keyimizi, bizden istediği yere yapıştırıyoruz ve enter tuşuna basıyoruz.
 
 ![3](https://user-images.githubusercontent.com/98269269/224922901-2de5deea-549d-48d2-bbbc-ea4400952a64.png)
+
+1.3. Ana Algorand Cüzdan Adresinizi Girin. https://testnet-app.goracle.io/nodes sayfasına gidin, cüzdanınızı bağlayın ve aşağıdaki ekran görüntüsünde üzerini belirginleştirdiğim yerdeki ANA ALGORAND CÜZDAN ADRESİNİZİ (Pera, Algosigner vb.) kopyalayın.
+
+![1](https://user-images.githubusercontent.com/98269269/226684510-92b834ba-d963-4ddd-b22a-22aa12e62ddc.png)
+
+1.4. Yukarıda kopyaladığınız ana algorand  cüzdan adresinizi terminale yapıştırın ve enter tuşuna basın.
+
+![2](https://user-images.githubusercontent.com/98269269/226685577-9fe76cf5-b95b-4424-ac25-cceabcf0115c.png)
+
 
 
 - Goracle Katılımcı Adresinizi kopyalayın. (Bu adres, yukarıda yer alan ''init'' komutunu girdikten hemen sonra yukarıdaki fotoğrafta üzeri beyaz olarak işaretli olan kısımdaki koddur.) Daha sonra testnet portalındaki ''Nodes'' bölümüne gidin. (https://testnet-app.goracle.io/nodes)
