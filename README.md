@@ -110,7 +110,7 @@ goracle init
 
 - Terminale dönüyoruz ve ENTER tuşuna basıyoruz.
 
-- Stake işlemini gerçekleştirdikten sonra ve tokenlerimizi aldıktan sonra sunucumuza geri dönüyoruz ve enter tuşuna basıp kaydımızı onaylıyoruz. Eğer aşağıdaki gibi çıktı aldıysanız sonraki adıma geçebilirsiniz.
+- Eğer aşağıdaki gibi çıktı aldıysanız sonraki adıma geçebilirsiniz.
 
 ![image](https://user-images.githubusercontent.com/76253089/225603716-7a66a8ce-5928-4236-96ba-e05724e9c4cd.png)
 
