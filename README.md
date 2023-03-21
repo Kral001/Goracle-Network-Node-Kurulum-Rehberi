@@ -104,19 +104,11 @@ goracle init
 
 ![13](https://user-images.githubusercontent.com/98269269/226694458-5b79af44-300a-480a-8e67-5b45be151bd3.png)
 
+- Bu işlemleri adım adım yaparken Pera Wallet mobil uygulamanızdan işlem onaylarını vermeyi unutmayın. Tüm onaylar tamamlandıktan bir süre sonra sayfayı yenilediğinizde tokenlerinizin stake edildiğini görebilirsiniz.
 
+4.SON ADIM!
 
-- Açılan sayfaya ana cüzdanınız ile giriş yapın ve katılımcı adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
-
-![4](https://user-images.githubusercontent.com/98269269/224924150-acc85d50-36b0-45ba-aa2a-eaf0c6124807.png)
-
-- Adresinizi kaydettikten sonra önce test tokenlerini almanız gerekiyor. Aşağıda gösterdiğim butona tıklayarak test tokenlerimizi alıyoruz.
-
-![cx](https://user-images.githubusercontent.com/98269269/225569906-5d431c02-7497-490a-a153-12cff5950ebc.png)
-
-
-
-
+- Terminale dönüyoruz ve ENTER tuşuna basıyoruz.
 
 - Stake işlemini gerçekleştirdikten sonra ve tokenlerimizi aldıktan sonra sunucumuza geri dönüyoruz ve enter tuşuna basıp kaydımızı onaylıyoruz. Eğer aşağıdaki gibi çıktı aldıysanız sonraki adıma geçebilirsiniz.
 
