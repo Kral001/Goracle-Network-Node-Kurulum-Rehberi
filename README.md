@@ -3,7 +3,7 @@
 ![9](https://user-images.githubusercontent.com/98269269/224926668-6981427e-56d4-4d2a-9df6-e8ff8e134246.png)
 
 Sunucu Gereksinimleri (VPS)
-- CPU: 2
+- CPU: 1-2
 - RAM: 4 GB
 - Depolama: 10 GB SSD
 - Ubuntu: 20.04+
