@@ -43,7 +43,10 @@ wget  -qP /usr/bin/ https://staging.dev.goracle.io/downloads/latest-staging/gora
 goracle init
 ```
 
-- Bu komut sonrası ortaya çıkacak olan örnek görüntü şöyle olmalıdır; BURADA DİKKATİNİZİ ÇEKMEK İSTİYORUM! Üzeri beyaz olarak taranmış olan kısımda bir numara görüyorsunuz. Bu komutu girdiğimizde herkese özel bu şekilde bir kod verilecek. Katılımcı kodu olarak geçen bu kodu kopyalayın ve bir yere not edin. Birazdan bu kodla kayıt olacağız.
+- Bu komut sonrası ortaya çıkacak olan örnek görüntü şöyle olmalıdır;
+
+![4](https://user-images.githubusercontent.com/98269269/226686230-fd82373f-fdc5-48aa-aca5-5438fa83850a.png)
+
 
 ![2](https://user-images.githubusercontent.com/98269269/224921811-b336d610-4ed8-4dba-b38d-b85629d37f0c.png)
 
@@ -62,8 +65,20 @@ goracle init
 ![2](https://user-images.githubusercontent.com/98269269/226685577-9fe76cf5-b95b-4424-ac25-cceabcf0115c.png)
 
 
+2.Katılım Adresinizi Kaydedin
 
-- Goracle Katılımcı Adresinizi kopyalayın. (Bu adres, yukarıda yer alan ''init'' komutunu girdikten hemen sonra yukarıdaki fotoğrafta üzeri beyaz olarak işaretli olan kısımdaki koddur.) Daha sonra testnet portalındaki ''Nodes'' bölümüne gidin. (https://testnet-app.goracle.io/nodes)
+2.1.Sunucunuzda aşağıda işaretli olarak gösterilen linke tıklayarak katılım adresinizi sisteme kaydedin.
+
+![5](https://user-images.githubusercontent.com/98269269/226687000-00f404c7-51a8-4da6-9723-7308301a2f1f.png)
+
+2.2.Yukarıdaki işlem için linke tıkladığınızda aşağıdaki gibi bir ekranla karşılaşacaksınız (Bu aşamada Pera cüzdanınızı tekrar bağlamanız gerekebilir). Aşağıda gördüğünüz işaretli olaan ''register'' butoununa basıyoruz ve node kayıt işlemimizi gerçekleştirmiş oluyoruz.
+
+![6](https://user-images.githubusercontent.com/98269269/226687441-cc0a7907-d358-46dc-9a9f-6155dd553ae6.png)
+
+2.3.Yapılan aşamalarda cüzdan onayı verirken Pera Wallet'ta mobil uygulama üzerinden işlem onayları verildiğini lütfen unutmayın.
+
+- İşlemleri onayladıktan sonra aşağıdaki hatayı alırsanız, lütfen pop-up'ları etkinleştirdiğinizden ve cüzdanınızda ( [musluk] ) Algo olduğundan emin olun.
+
 
 - Açılan sayfaya ana cüzdanınız ile giriş yapın ve katılımcı adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
 
