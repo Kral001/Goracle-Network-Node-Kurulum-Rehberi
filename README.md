@@ -74,8 +74,11 @@ goracle init
 
 2.3.Yapılan aşamalarda cüzdan onayı verirken Pera Wallet'ta mobil uygulama üzerinden işlem onayları verildiğini lütfen unutmayın.
 
-- İşlemleri onayladıktan sonra aşağıdaki hatayı alırsanız, lütfen pop-up'ları etkinleştirdiğinizden ve cüzdanınızda ( [musluk] ) Algo olduğundan emin olun.
+- İşlemleri onayladıktan sonra aşağıdaki hatayı alırsanız, lütfen pop-up'ları etkinleştirdiğinizden ve cüzdanınızda Algo (https://bank.testnet.algorand.network/) olduğundan emin olun.
 
+![6bf4abb8-675a-48fa-a2c7-71454e51b017](https://user-images.githubusercontent.com/98269269/226689706-22ed3a67-8cd6-4d7e-8726-f8e54ea46b02.png)
+
+2.4. Ardından katılım adresinize Algo almanız gerekecektir. Bu aşamada aşağıda işaretlediğim yerdeki katılım adresinizi kopyalayın ve faucetten (https://bank.testnet.algorand.network/) bu adrese Algo alın.
 
 - Açılan sayfaya ana cüzdanınız ile giriş yapın ve katılımcı adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
 
