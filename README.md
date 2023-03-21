@@ -82,6 +82,13 @@ goracle init
 
 ![8](https://user-images.githubusercontent.com/98269269/226690642-d815273f-53fa-4395-91de-24e4b87b21a5.png)
 
+- Bu aşamada yalnızca erişim kodu olanlar işleme devam edebilecektir. Erişim kodları ilk etapta rastgele seçilmiş 1000 kişiye gönderilecektir. Sonrasında kısa bir süre sonra herkese açık hale gelecek ve herkes node kurabilecektir.
+
+3.Test $GORA Tokenlerimizi aşağıdaki butona basarak talep ediyoruz.
+
+![9](https://user-images.githubusercontent.com/98269269/226693585-5112bc0f-890a-4db1-a3ab-c1908303945b.png)
+
+
 
 - Açılan sayfaya ana cüzdanınız ile giriş yapın ve katılımcı adresinizi yapıştırarak aşağıdaki şekilde kaydınızı gerçekleştirin.
 
@@ -92,13 +99,8 @@ goracle init
 ![cx](https://user-images.githubusercontent.com/98269269/225569906-5d431c02-7497-490a-a153-12cff5950ebc.png)
 
 
-- Şimdi tokenleri stake edeceğiz. İşaretli yerden bu işlemi de gerçekleştiriyoruz. En az 10.000 GORA token stake edebiliriz. Daha az stake etmeye çalışırsanız işlem gerçekleşmeyecektir.
 
-![bb](https://user-images.githubusercontent.com/98269269/225570561-bbdc620f-6aca-4163-b358-ff8715e938d6.png)
 
-- BURASI ÇOK ÖNEMLİ!!! BU İŞLEM YAPILMAZSA NODE ÇALIŞMIYOR!
-
-Test algo ekranına (https://bank.testnet.algorand.network/) girdiğinizde Algorand cüzdan adresiniz ile token talep ettikten sonra, şimdi de ''KATILIMCI ADRESİNİZ'' ile token talep etmelisiniz. Katılımcı adresi dediğimiz adres; yukarıda üzerini beyaz ile belirginleştirdiğimiz bize verilen adrestir.
 
 - Stake işlemini gerçekleştirdikten sonra ve tokenlerimizi aldıktan sonra sunucumuza geri dönüyoruz ve enter tuşuna basıp kaydımızı onaylıyoruz. Eğer aşağıdaki gibi çıktı aldıysanız sonraki adıma geçebilirsiniz.
 
