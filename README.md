@@ -84,7 +84,7 @@ goracle init
 
 - Bu aşamada yalnızca erişim kodu olanlar işleme devam edebilecektir. Erişim kodları ilk etapta rastgele seçilmiş 1000 kişiye gönderilecektir. Sonrasında kısa bir süre sonra herkese açık hale gelecek ve herkes node kurabilecektir.
 
-3.Test $GORA Tokenlerimizi aşağıdaki butona basarak talep ediyoruz.
+3.Test $GORA Tokenlerimizi aşağıdaki butona basarak talep ediyoruz. (İLK ETAPTA YALNIZCA 1000 KİŞİYE GÖNDERİLDİ. YAKINDA HERKESE AÇIK HALE GELECEK. EĞER MAİL GELMEDIYSE BU ADIMI ATLAYARAK 3.3'TEN DEVAM EDEBİLİRSİNİZ) 
 
 ![9](https://user-images.githubusercontent.com/98269269/226693585-5112bc0f-890a-4db1-a3ab-c1908303945b.png)
 
