@@ -194,7 +194,9 @@ Vurgulanan anahtarın SİZİN GERÇEK PURESTAKE API ANAHTARINIZ olduğu yer.
 Bu nedenle, ilk iki satırı ilk dosyadan silmeli ve bunun yerine şu üç satırı eklemelisiniz:
 
 "authKey": "YOUR_KEY", 
+
 "server": "https://testnet-algorand.api.purestake.io/ps2", 
+
 "authHeader": "x-api-key",
 
 İşiniz bittiğinde Ctrl+x'e, ardından Y'ye ve ardından Enter'a basın.
