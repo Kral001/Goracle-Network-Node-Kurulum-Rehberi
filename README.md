@@ -170,8 +170,8 @@ HATA DÜZELTMELERİ
 
 - Bu sorunları düzeltebilmek için Algorand API uç noktanızı değiştirmeniz gerekiyor.
 
-1. PureStake'e kaydolun https://developer.purestake.io/home
-2. PureStake Api Anahtarınızı Alın
+1. PureStake'e daha önce kaydolmuştuk ve API Key almıştık. Aynı API Key'i kullanacağız. https://developer.purestake.io/home
+2. PureStake Api Anahtarınızı Kopyalayın.
 
 ![c](https://user-images.githubusercontent.com/98269269/228643941-bf203ded-b87b-4e55-adb1-421c0f658dd9.png)
 
