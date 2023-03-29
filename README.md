@@ -160,3 +160,59 @@ goracle docker-stop
 rm ~/.goracle
 ```
 
+HATA DÜZELTMELERİ
+
+- Aşağıdaki hataları alıyorsanız ne yaparak bu hataları düzeltebileceğinizi anlatıyorum. Lütfen adımları dikkatli bir şekilde gerçekleştiriniz.
+
+![A](https://user-images.githubusercontent.com/98269269/228642983-3ccc489b-54cf-4131-a00a-df8e24385779.png)
+
+![B](https://user-images.githubusercontent.com/98269269/228643441-59a10bd2-58ff-4b34-9750-858938ea1212.png)
+
+- Bu sorunları düzeltebilmek için Algorand API uç noktanızı değiştirmeniz gerekiyor.
+
+1. PureStake'e kaydolun https://developer.purestake.io/home
+2. PureStake Api Anahtarınızı Alın
+
+![c](https://user-images.githubusercontent.com/98269269/228643941-bf203ded-b87b-4e55-adb1-421c0f658dd9.png)
+
+- Terminale gidin ve aşağıdaki komutu girin.
+
+```
+nano ~/.goracle
+```
+
+Kodu girdiğinizde şöyle bir çıktı alacaksınız:
+
+![d](https://user-images.githubusercontent.com/98269269/228644282-b2e329eb-96cf-40ac-9489-52a1c53e25c5.png)
+
+- Bu dosyayı aşağıdaki gibi görünecek şekilde değiştirmeniz gerekecek.
+
+![e](https://user-images.githubusercontent.com/98269269/228644419-807911a8-5a99-4dfb-868e-df13dc68fa89.png)
+
+Vurgulanan anahtarın SİZİN GERÇEK PURESTAKE API ANAHTARINIZ olduğu yer.
+
+Bu nedenle, ilk iki satırı ilk dosyadan silmeli ve bunun yerine şu üç satırı eklemelisiniz:
+
+"authKey": "YOUR_KEY", 
+"server": "https://testnet-algorand.api.purestake.io/ps2", 
+"authHeader": "x-api-key",
+
+İşiniz bittiğinde Ctrl+x'e, ardından Y'ye ve ardından Enter'a basın.
+
+Ardından aşağıdaki komutları sırayla girin.
+
+```
+goracle docker-stop
+```
+
+```
+goracle docker-start --background
+```
+
+- Son olarak logları kontrol edin.
+
+```
+docker logs -f goracle-nr
+```
+
+
