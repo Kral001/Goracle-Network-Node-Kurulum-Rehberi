@@ -217,4 +217,40 @@ goracle docker-start --background
 docker logs -f goracle-nr
 ```
 
+- BU HATAYI ALAN BİRÇOK KİŞİ GÖRDÜK. AŞAĞIDAKİ A VEYA B ADIMLARINDAN BİRİSİ SORUNUNUZU ÇÖZECEKTİR. ÖNCELİKLE A ADIMINI DENEYİN!
 
+![Termius - Goracle Test 2023年-04月-01日 1 54 05 (1)](https://user-images.githubusercontent.com/98269269/229287185-2869f000-e17f-46cd-9d53-f68eb481d422.png)
+
+A)
+
+```
+sudo usermod -aG docker $USER
+```
+
+Oturumu kapatın veya çıkın.
+
+Çıkış yapın ve tekrar giriş yapın.
+
+```
+./goracle docker-start --background
+```
+
+```
+docker logs -f goracle-nr
+```
+
+B) 
+
+```
+sudo chown $USER /var/run/docker.sock
+```
+
+```
+./goracle docker-start --background
+```
+
+```
+docker logs -f goracle-nr
+```
+
+- Sorununuz çözülmüş olmalıdır.
