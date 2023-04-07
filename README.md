@@ -254,3 +254,7 @@ docker logs -f goracle-nr
 ```
 
 - Sorununuz çözülmüş olmalıdır.
+
+- SORUNLAR BİRÇOK KİŞİDE DEVAM ETTİĞİ İÇİN KESİN ÇÖZÜM OLARAK ALGORAND NODE KURARAK GORACLE İLE EŞLEYECEĞİZ! YUKARIDAKİ TÜM KURULUM ADIMLARINI TAMAMLADIKTAN SONRA SON OLARAK AŞAĞIYA BIRAKTIM REHBERİ EKSİKSİZ OLARAK UYGULAMAYI UNUTMAYIN!
+
+https://github.com/Kral001/Algorand-Node-Kurulumu-Testnetle-Goracle-Ayni-VPS-de-Yapilandirma/blob/main/README.md
